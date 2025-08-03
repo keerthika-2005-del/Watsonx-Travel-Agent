@@ -21,10 +21,3 @@ Then, the AI creates a full travel plan with places to visit, activities, food s
 
 ---
 ---
-
-## How to run it:
-1. Open the notebook in Google Colab or Jupyter Notebook
-2. Install OpenAI by running:
-
-1. Open the notebook in Google Colab or Jupyter Notebook
-2. Install OpenAI by running:
