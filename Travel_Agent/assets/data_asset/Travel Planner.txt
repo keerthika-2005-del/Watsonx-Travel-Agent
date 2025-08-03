@@ -1,0 +1,10 @@
+Travel Planner Dataset
+================================================================================
+Destination	Country	Activity	Estimated Cost	Best Season	Hotel Name	Rating	Food Specialty
+--------------------------------------------------------------------------------
+Goa	        India	Beach parties	INR 8000	    November	Sea Breeze Resort	4.2	Fish curry rice
+Paris	    France	Eiffel Tower	INR 50000	    April	    Hôtel de la Tour	    4.7	Croissants
+Manali	    India	Snow trekking	INR 12000	    January	    Snow Retreat Inn	    4.5	Maggi & momo
+Tokyo	    Japan	Anime shopping	INR 70000	    March	    Shibuya Inn	        4.8	Sushi
+Dubai	    UAE	    Desert safari	INR 35000	    December	Al Qasr Hotel	        4.6	Shawarma
+Ooty	    India	Tea garden walk	INR 10000	    August	    Hilltop Villa	        4.3	South Indian meals
